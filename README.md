@@ -1,6 +1,6 @@
 # :pushpin: JSP_Board
 
-> JSP 게시판 기능 구현
+> JSP 게시판 기능 구현 <br>
 > JSP_Study : https://github.com/HeesuYeo/JSP_Study
   
 </br>
