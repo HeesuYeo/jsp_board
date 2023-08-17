@@ -1,4 +1,4 @@
-# :pushpin: Concert Connect
+# :pushpin: JSP_Board
 
 > JSP 게시판 기능 구현
   
